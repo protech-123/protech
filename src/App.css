@@ -684,6 +684,7 @@ form a {
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: -80px;
+  padding-bottom: 130px;
 }
 .service-cards{
   display: flex;
